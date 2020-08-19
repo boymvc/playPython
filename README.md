@@ -1,5 +1,3 @@
 # playPython
 # Fort Knox
-Fort Knox stores all the gold in the USA. There is a lock that only two people know the password to Fort Knox, Luke and Barry. Luke and Barry went to a bar and got in an arguement. Luke say the password is 1234 you can answer 09758481234 and it would still work so it is a national security weakness but Barry said that it is the only way he can get into Fort Knox. Things got heated and they ended up shotting eachother. Now nobody knows the password and so I created this repo that will find the best way to find the password. Have fun.*
-
-*Not a real story
+Fort Knox is a high security facility where all of the US gold reservese are stored. The tightly gaurded security code to enter Fort Knox is only trusted to two individuals with top level security clearence, Luke and Barry. One autumn evening Luke and Barry went to a bar, they got in to an arguement about Fort Knox's security. Luke said "If the password is 1234, you can answer 1234 regardless of what you had previously entered and it would still work, so it is easy to guess the password by accident." Barry disagreed, he belived that it a very helpful way that he can get the password correct. They were both red hot with steam coming out of they're ears and ended up shotting and killing eachother. Now nobody knows the password and someone needs to find out, can you?
